@@ -1,4 +1,4 @@
-import reactDom from "react-dom";
+/*import reactDom from "react-dom";*/
 
 export const App = () => {
   return (
